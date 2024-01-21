@@ -1,7 +1,7 @@
 # Bank-Customer-Characteristics-by-Segmentation
 **Bank Customer Clustering.ipynb**
    - **Topic:** Unveiling Trends in Bank Customer Characteristics by Segmentation
-   - **Description:** This notebook explores and analyzes bank customer data, applying clustering techniques to unveil patterns and trends in customer characteristics. After grouping into 3 clusters, this was the inference:
+   - **Description:** This notebook explores and analyzes bank customer data, applying clustering techniques to unveil patterns and trends in customer characteristics. After grouping into 3 clusters, this is the inference:
 
 Cluster 1: The Established Couples
 
